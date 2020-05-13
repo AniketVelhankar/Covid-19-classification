@@ -8,6 +8,6 @@ Covid-19 classification using transfer learning and pytorch
 4. Experimentation with CovidX dataset and CT datasets.
 
 # Note
-This notebook is just for experimentation and practice purposes. 
+This notebook is just for experimentation and practice purposes and available for researchers to contribute and experiment.\
 **It is not a production-ready solution and not applicable to be deployed in real world scenarious by any means.**
 
